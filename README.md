@@ -1,9 +1,9 @@
 # assigment_homejam
 backend express assignment for homejam
 
-To start 
-step 1 : 
->>>npm i 
+
+step 1 : >>>npm i 
+
 step 2 : node or nodeon app.js
 
 I used jwtwebtoken for authentication and password and userrole is added 
